@@ -4,7 +4,7 @@
 #include <malloc.h>  
 #include <string.h>  
 
-char* my_itoa(int value,char *str,int radix); 
+char *my_itoa(int value,char *str,int radix); 
 char *my_ftoa(double number,int ndigit,char *buf); 
 
 int main()  
